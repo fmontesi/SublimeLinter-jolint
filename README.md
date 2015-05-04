@@ -7,7 +7,7 @@ This linter plugin for SublimeLinter provides an interface to jolint. It will be
 
 SublimeLinter 3 must be [installed](http://www.sublimelinter.com/en/latest/installation.html) in Sublime Text. I strongly recommend [Package Control](https://packagecontrol.io/installation) for the task.
 
-### Installation
+### Install Jolie
 
 Before using this plugin, you must ensure that `jolie` is installed on your system. To install `jolie` follow the installation steps [here](http://www.jolie-lang.org/download.html).
 
